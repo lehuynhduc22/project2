@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 18
+Main-Class: HoaHongExportExcel
+Created-By: Maven Integration for Eclipse
+
